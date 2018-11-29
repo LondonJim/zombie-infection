@@ -10,10 +10,12 @@
     "react-scripts": "2.0.5"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "dev": "react-scripts start",
+    "start": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test --coverage",
     "eject": "react-scripts eject",
+    "heroku-postbuild": "npm run build",
     "cypress:open": "cypress open",
     "lint": "eslint src/**/*.js"
   },
