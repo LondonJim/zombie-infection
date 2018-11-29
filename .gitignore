@@ -12,6 +12,7 @@ build/static/css/*.map
 build/static/js/*.map
 public/*
 src/*
+/cypress
 
 # misc
 .DS_Store
