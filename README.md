@@ -74,9 +74,8 @@ Run around the city turning as many victims as possible into zombies and increas
 
 Trick or Eat Brains is hosted on heroku at
 
-```
 (https://final-trick-eat-brains.herokuapp.com/)
-```
+
 
 
 
